@@ -32,7 +32,7 @@
     },
     {
       "contract_name": "Shade SCRT staking derivative",
-"visible_asset_name": "stkd-SCRT"
+"visible_asset_name": "stkd-SCRT",
       "symbol": "stkd-SCRT",
       "decimals": 6,
       "denom": "ustkd-SCRT",
