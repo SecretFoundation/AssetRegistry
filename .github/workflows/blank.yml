@@ -1,0 +1,49 @@
+name: Lint and Prettify JSON
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint-prettify-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install jsonlint
+        run: npm install -g jsonlint
+
+      - name: Lint and Prettify JSON Files
+        run: |
+          find . -name "*.json" | while read file; do
+            echo "Processing $file"
+            if jsonlint "$file" -q; then
+              echo "$file is valid JSON."
+              jsonlint "$file" -p > tmp.json && mv tmp.json "$file"
+              echo "$file has been prettified."
+            else
+              echo "$file is not valid JSON."
+              exit 1
+            fi
+          done
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Lint and prettify JSON files"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
