@@ -104,7 +104,7 @@
     },
     {
       "contract_name": "Secret Axelar DAI",
-      "visible_asset_name": "DAI.axl",
+      "visible_asset_name": "DAI",
       "symbol": "saDAI",
       "decimals": 18,
       "denom": "dai-wei",
@@ -124,7 +124,7 @@
     },
     {
       "contract_name": "Secret Axelar WETH",
-      "visible_asset_name": "WETH.axl",
+      "visible_asset_name": "WETH",
       "symbol": "saWETH",
       "decimals": 18,
       "denom": "weth-wei",
@@ -134,7 +134,7 @@
     },
     {
       "contract_name": "Secret Axelar WBTC",
-      "visible_asset_name": "WBTC.axl",
+      "visible_asset_name": "WBTC",
       "symbol": "saWBTC",
       "decimals": 8,
       "denom": "wbtc-satoshi",
@@ -144,7 +144,7 @@
     },
     {
       "contract_name": "Secret Axelar FRAX",
-      "visible_asset_name": "FRAX.axl",
+      "visible_asset_name": "FRAX",
       "symbol": "saFRAX",
       "decimals": 18,
       "denom": "frax-wei",
@@ -154,7 +154,7 @@
     },
     {
       "contract_name": "Secret Axelar UNI",
-      "visible_asset_name": "UNI.axl",
+      "visible_asset_name": "UNI",
       "symbol": "saUNI",
       "decimals": 18,
       "denom": "uni-wei",
@@ -164,7 +164,7 @@
     },
     {
       "contract_name": "Secret Axelar WBNB",
-      "visible_asset_name": "WBNB.axl",
+      "visible_asset_name": "WBNB",
       "symbol": "saWBNB",
       "decimals": 18,
       "denom": "wbnb-wei",
@@ -184,7 +184,7 @@
     },
     {
       "contract_name": "Secret Axelar Link",
-      "visible_asset_name": "LINK.axl",
+      "visible_asset_name": "LINK",
       "symbol": "saLINK",
       "decimals": 18,
       "denom": "link-wei",
