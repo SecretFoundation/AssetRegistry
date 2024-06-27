@@ -724,55 +724,55 @@
       "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
       "version": "SNIP-25"
     },
-     {
-        "contract_name": "Secret KAVA",
-        "visible_asset_name": "SKAVA",
-        "symbol": "SKAVA",
-        "decimals": 6,
-        "denom": "ibc/6301A6E3731936DB3924F580AB96CEB72F97B21EFED083779984BE7322B7815A",
-        "contract_address": "secret1xyhphws090fqs33sxkytmagwynz54eqnpdqfrw",
-        "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
-        "version": "SNIP-25"
+    {
+      "contract_name": "Secret KAVA",
+      "visible_asset_name": "SKAVA",
+      "symbol": "SKAVA",
+      "decimals": 6,
+      "denom": "ibc/6301A6E3731936DB3924F580AB96CEB72F97B21EFED083779984BE7322B7815A",
+      "contract_address": "secret1xyhphws090fqs33sxkytmagwynz54eqnpdqfrw",
+      "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
+      "version": "SNIP-25"
     },
     {
-        "contract_name": "Secret USDT",
-        "visible_asset_name": "SUSDT",
-        "symbol": "SUSDT",
-        "decimals": 6,
-        "denom": "ibc/0B1830E544F39B2CDD1CE415D1B1A377039E495CE83055C01BF6AE4518C28755",
-        "contract_address": "secret1htd6s29m2j9h45knwkyucz98m306n32hx8dww3",
-        "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
-        "version": "SNIP-25"
+      "contract_name": "Secret USDT",
+      "visible_asset_name": "SUSDT",
+      "symbol": "SUSDT",
+      "decimals": 6,
+      "denom": "ibc/0B1830E544F39B2CDD1CE415D1B1A377039E495CE83055C01BF6AE4518C28755",
+      "contract_address": "secret1htd6s29m2j9h45knwkyucz98m306n32hx8dww3",
+      "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
+      "version": "SNIP-25"
     },
     {
-        "contract_name": "Secret wstETH",
-        "visible_asset_name": "WSTETH",
-        "symbol": "WSTETH",
-        "decimals": 18,
-        "denom": "ibc/9AD9D38BE249CB6F0A22A1EB5487E2377B79FADB397444B1F77F29B96F34C2F1",
-        "contract_address": "secret1xx6m5c7d92h75evkmxqqe2xe5sk5qcqqs9t8ar",
-        "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
-        "version": "SNIP-25"
+      "contract_name": "Secret wstETH",
+      "visible_asset_name": "WSTETH",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "denom": "ibc/9AD9D38BE249CB6F0A22A1EB5487E2377B79FADB397444B1F77F29B96F34C2F1",
+      "contract_address": "secret1xx6m5c7d92h75evkmxqqe2xe5sk5qcqqs9t8ar",
+      "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
+      "version": "SNIP-25"
     },
     {
-        "contract_name": "Secret ampKUJI",
-        "visible_asset_name": "SAMPKUJI",
-        "symbol": "SAMPKUJI",
-        "decimals": 6,
-        "denom": "ibc/34B4771B53EF809676E49CE62A5E1872FBD7C9BF4AF248741A22F4998ECB5501",
-        "contract_address": "secret1pf6n6j8xlkxnga5t8w8exdtvcrrjgqms5wdlnj",
-        "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
-        "version": "SNIP-25"
+      "contract_name": "Secret ampKUJI",
+      "visible_asset_name": "SAMPKUJI",
+      "symbol": "SAMPKUJI",
+      "decimals": 6,
+      "denom": "ibc/34B4771B53EF809676E49CE62A5E1872FBD7C9BF4AF248741A22F4998ECB5501",
+      "contract_address": "secret1pf6n6j8xlkxnga5t8w8exdtvcrrjgqms5wdlnj",
+      "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
+      "version": "SNIP-25"
     },
     {
-        "contract_name": "Secret ampWHALE",
-        "visible_asset_name": "SAMPWHALE",
-        "symbol": "SAMPWHALE",
-        "decimals": 6,
-        "denom": "ibc/3EFE4B646CE2EFCA3787ED861AFDC5A37BAEDB3B905A64BAE796D2366D1AB473",
-        "contract_address": "secret1jsaftfxnwwmjxccvc3zqaqmkcpp8fjnvvltvq6",
-        "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
-        "version": "SNIP-25"
+      "contract_name": "Secret ampWHALE",
+      "visible_asset_name": "SAMPWHALE",
+      "symbol": "SAMPWHALE",
+      "decimals": 6,
+      "denom": "ibc/3EFE4B646CE2EFCA3787ED861AFDC5A37BAEDB3B905A64BAE796D2366D1AB473",
+      "contract_address": "secret1jsaftfxnwwmjxccvc3zqaqmkcpp8fjnvvltvq6",
+      "contract_hash": "638a3e1d50175fbcb8373cf801565283e3eb23d88a9b7b7f99fcc5eb1e6b561e",
+      "version": "SNIP-25"
     }
   ]
 }
